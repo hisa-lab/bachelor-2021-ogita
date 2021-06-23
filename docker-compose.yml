@@ -1,0 +1,9 @@
+version: "3"
+services:
+  python:
+    container_name: "python"
+    image: python:3.9
+    working_dir: '/var/src'
+    tty: true
+    volumes:
+      - ./src:/var/src
