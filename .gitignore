@@ -137,6 +137,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# JetBrains IDE
+.idea/
+
 # C#
 *_i.c
 *_p.c
