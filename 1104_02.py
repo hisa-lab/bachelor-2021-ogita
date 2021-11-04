@@ -6,7 +6,7 @@ def true():
     n = int (n)
 
 
-   if x % 3 == 0:
+    if x % 3 == 0:
         print("Fizz")
 
     elif x % 5 == 0:
